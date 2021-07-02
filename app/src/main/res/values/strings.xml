@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FinInfoTask</string>
+
+    <string name="suggestionText">* Please enter email id and mobile number</string>
+
+    <string name="emailId">Email Id</string>
+    <string name="mobileNumber">Mobile Number</string>
+    <string name="submit">Submit</string>
+    <string name="saved_details">Saved Details</string>
+    <string name="no_data_found">No Data Found</string>
+
+</resources>
